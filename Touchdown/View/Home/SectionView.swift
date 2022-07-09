@@ -8,8 +8,11 @@
 import SwiftUI
 
 struct SectionView: View {
+    // MARK: - Properties
     
     @State var rotateClockwise: Bool
+    
+    // MARK: - Body
     
     var body: some View {
         VStack(spacing: 0) {
@@ -27,6 +30,8 @@ struct SectionView: View {
         .frame(width: 85)
     }
 }
+
+// MARK: - Preview
 
 struct SectionView_Previews: PreviewProvider {
     static var previews: some View {
