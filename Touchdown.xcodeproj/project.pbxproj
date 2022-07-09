@@ -11,6 +11,22 @@
 		EF75FE732879650D00378309 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FE722879650D00378309 /* ContentView.swift */; };
 		EF75FE752879650E00378309 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF75FE742879650E00378309 /* Assets.xcassets */; };
 		EF75FE782879650E00378309 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF75FE772879650E00378309 /* Preview Assets.xcassets */; };
+		EF75FE8B28796EAC00378309 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FE8A28796EAC00378309 /* Constant.swift */; };
+		EF75FE8D28796F8900378309 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FE8C28796F8900378309 /* FooterView.swift */; };
+		EF75FE8F2879744500378309 /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FE8E2879744500378309 /* NavigationBarView.swift */; };
+		EF75FE912879756B00378309 /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FE902879756B00378309 /* LogoView.swift */; };
+		EF75FE93287978AD00378309 /* PlayerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FE92287978AD00378309 /* PlayerModel.swift */; };
+		EF75FE95287978E700378309 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FE94287978E700378309 /* CodableBundleExtension.swift */; };
+		EF75FE9728797A6200378309 /* FeaturedItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FE9628797A6200378309 /* FeaturedItemView.swift */; };
+		EF75FE9C28797B3700378309 /* brand.json in Resources */ = {isa = PBXBuildFile; fileRef = EF75FE9828797B3700378309 /* brand.json */; };
+		EF75FE9D28797B3700378309 /* product.json in Resources */ = {isa = PBXBuildFile; fileRef = EF75FE9928797B3700378309 /* product.json */; };
+		EF75FE9E28797B3700378309 /* player.json in Resources */ = {isa = PBXBuildFile; fileRef = EF75FE9A28797B3700378309 /* player.json */; };
+		EF75FE9F28797B3700378309 /* category.json in Resources */ = {isa = PBXBuildFile; fileRef = EF75FE9B28797B3700378309 /* category.json */; };
+		EF75FEA228797B8300378309 /* FeaturedTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FEA128797B8300378309 /* FeaturedTabView.swift */; };
+		EF75FEA428797E3500378309 /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FEA328797E3500378309 /* CategoryModel.swift */; };
+		EF75FEA628797F4E00378309 /* CategoryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FEA528797F4E00378309 /* CategoryItemView.swift */; };
+		EF75FEA8287980BE00378309 /* CategoryGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF75FEA7287980BE00378309 /* CategoryGridView.swift */; };
+		EFF09DE2287987CD00D5F3AC /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFF09DE1287987CD00D5F3AC /* SectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,23 @@
 		EF75FE722879650D00378309 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EF75FE742879650E00378309 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF75FE772879650E00378309 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EF75FE8228796D7D00378309 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF75FE8A28796EAC00378309 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		EF75FE8C28796F8900378309 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
+		EF75FE8E2879744500378309 /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
+		EF75FE902879756B00378309 /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
+		EF75FE92287978AD00378309 /* PlayerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerModel.swift; sourceTree = "<group>"; };
+		EF75FE94287978E700378309 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
+		EF75FE9628797A6200378309 /* FeaturedItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedItemView.swift; sourceTree = "<group>"; };
+		EF75FE9828797B3700378309 /* brand.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = brand.json; sourceTree = "<group>"; };
+		EF75FE9928797B3700378309 /* product.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = product.json; sourceTree = "<group>"; };
+		EF75FE9A28797B3700378309 /* player.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = player.json; sourceTree = "<group>"; };
+		EF75FE9B28797B3700378309 /* category.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = category.json; sourceTree = "<group>"; };
+		EF75FEA128797B8300378309 /* FeaturedTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedTabView.swift; sourceTree = "<group>"; };
+		EF75FEA328797E3500378309 /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
+		EF75FEA528797F4E00378309 /* CategoryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItemView.swift; sourceTree = "<group>"; };
+		EF75FEA7287980BE00378309 /* CategoryGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryGridView.swift; sourceTree = "<group>"; };
+		EFF09DE1287987CD00D5F3AC /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +84,13 @@
 		EF75FE6F2879650D00378309 /* Touchdown */ = {
 			isa = PBXGroup;
 			children = (
-				EF75FE702879650D00378309 /* TouchdownApp.swift */,
-				EF75FE722879650D00378309 /* ContentView.swift */,
+				EF75FEA028797B3E00378309 /* Data */,
+				EF75FE8028796D3700378309 /* App */,
+				EF75FE8128796D4D00378309 /* View */,
+				EF75FE8728796E5400378309 /* Utility */,
+				EF75FE8528796E4000378309 /* Model */,
+				EF75FE8628796E4E00378309 /* Extension */,
+				EF75FE8228796D7D00378309 /* Info.plist */,
 				EF75FE742879650E00378309 /* Assets.xcassets */,
 				EF75FE762879650E00378309 /* Preview Content */,
 			);
@@ -65,6 +103,82 @@
 				EF75FE772879650E00378309 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EF75FE8028796D3700378309 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				EF75FE702879650D00378309 /* TouchdownApp.swift */,
+				EF75FE722879650D00378309 /* ContentView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		EF75FE8128796D4D00378309 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EF75FE8428796E3600378309 /* Detail */,
+				EF75FE8328796E3100378309 /* Home */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EF75FE8328796E3100378309 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				EF75FE8C28796F8900378309 /* FooterView.swift */,
+				EF75FE8E2879744500378309 /* NavigationBarView.swift */,
+				EF75FE902879756B00378309 /* LogoView.swift */,
+				EF75FE9628797A6200378309 /* FeaturedItemView.swift */,
+				EF75FEA128797B8300378309 /* FeaturedTabView.swift */,
+				EF75FEA528797F4E00378309 /* CategoryItemView.swift */,
+				EF75FEA7287980BE00378309 /* CategoryGridView.swift */,
+				EFF09DE1287987CD00D5F3AC /* SectionView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		EF75FE8428796E3600378309 /* Detail */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Detail;
+			sourceTree = "<group>";
+		};
+		EF75FE8528796E4000378309 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EF75FE92287978AD00378309 /* PlayerModel.swift */,
+				EF75FEA328797E3500378309 /* CategoryModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EF75FE8628796E4E00378309 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				EF75FE94287978E700378309 /* CodableBundleExtension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		EF75FE8728796E5400378309 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				EF75FE8A28796EAC00378309 /* Constant.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		EF75FEA028797B3E00378309 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				EF75FE9828797B3700378309 /* brand.json */,
+				EF75FE9B28797B3700378309 /* category.json */,
+				EF75FE9A28797B3700378309 /* player.json */,
+				EF75FE9928797B3700378309 /* product.json */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +239,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF75FE9E28797B3700378309 /* player.json in Resources */,
 				EF75FE782879650E00378309 /* Preview Assets.xcassets in Resources */,
+				EF75FE9D28797B3700378309 /* product.json in Resources */,
+				EF75FE9F28797B3700378309 /* category.json in Resources */,
 				EF75FE752879650E00378309 /* Assets.xcassets in Resources */,
+				EF75FE9C28797B3700378309 /* brand.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +255,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF75FE95287978E700378309 /* CodableBundleExtension.swift in Sources */,
 				EF75FE732879650D00378309 /* ContentView.swift in Sources */,
+				EF75FE912879756B00378309 /* LogoView.swift in Sources */,
+				EF75FE8D28796F8900378309 /* FooterView.swift in Sources */,
+				EF75FE9728797A6200378309 /* FeaturedItemView.swift in Sources */,
 				EF75FE712879650D00378309 /* TouchdownApp.swift in Sources */,
+				EF75FE8B28796EAC00378309 /* Constant.swift in Sources */,
+				EF75FEA8287980BE00378309 /* CategoryGridView.swift in Sources */,
+				EF75FEA428797E3500378309 /* CategoryModel.swift in Sources */,
+				EF75FE8F2879744500378309 /* NavigationBarView.swift in Sources */,
+				EFF09DE2287987CD00D5F3AC /* SectionView.swift in Sources */,
+				EF75FEA628797F4E00378309 /* CategoryItemView.swift in Sources */,
+				EF75FEA228797B8300378309 /* FeaturedTabView.swift in Sources */,
+				EF75FE93287978AD00378309 /* PlayerModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,11 +400,13 @@
 				DEVELOPMENT_TEAM = A38548G3Y3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Touchdown/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -299,11 +431,13 @@
 				DEVELOPMENT_TEAM = A38548G3Y3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Touchdown/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
